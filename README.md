@@ -7,3 +7,6 @@ The goal of this project is to help the doctors in operation theatres or a steri
 Here, We train a CNN based model to recognize the hand gesture. The training data include images that captures the hand gestures of 1,2,3,4,5 and 0. The image is resized without much loss of information and used for training a CNN based model. We use Python Flask to provide an interactive platform for out model.
 
 Members of this Project: Joe Lillian J - TL ; Lokesh Kumar M - TM ; Hariharan P - TM ; Harish V - TM.
+
+Due to some issue with one of my teammate, Our project was moved to this new repo. 
+Our old repo still exist and is accessible. (https://github.com/IBM-EPBL/IBM-Project-1871-1664170078.git)
